@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, We are NodeShark
+content: >
+  # We dive into software solutions building and improving your ideas
+
+  Offering tailor-made solutions to connect in the best way with your customers
+buttonName: Contact us
+buttonURL: contact
+image: images/hero/ilustracion_5.png
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=p_Y_zPlPgFU

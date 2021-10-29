@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## About us
+
+  We are a highly skilled software and design team based in Montevideo.
+content: >
+  ### Let us be your partner in the development of your idea
+
+  Our multidisciplinary team of professionals with extensive experience in the field, 
+  will accompany you in the development or improvement of your idea, 
+  always aiming for excellence in our products.
+button1Name: Send inquiry
+button2Name: Lets have a meet
+button1Target: contact
+button2Target: https://calendly.com/nodeshark/30min
+image: images/about/ilustracion_1.png
