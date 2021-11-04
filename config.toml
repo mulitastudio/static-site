@@ -1,4 +1,4 @@
-baseURL = "https://nodeshark-io.github.io/static-site"
+baseURL = "https://mulitastudio.github.io/static-site"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
