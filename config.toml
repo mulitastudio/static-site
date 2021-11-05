@@ -1,4 +1,4 @@
-baseURL = "https://mulitastudio.github.io/static-site"
+baseURL = "mulitastudio.com"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
