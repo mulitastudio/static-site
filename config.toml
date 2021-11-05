@@ -1,4 +1,4 @@
-baseURL = "http://mulitastudio.com"
+baseURL = "https://mulitastudio.com"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
