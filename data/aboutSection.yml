@@ -11,8 +11,6 @@ content: >
   Our multidisciplinary team of professionals with extensive experience in the field, 
   will accompany you in the development or improvement of your idea, 
   always aiming for excellence in our products.
-button1Name: Send inquiry
-button2Name: Lets have a meet
-button1Target: contact
-button2Target: https://calendly.com/nodeshark/30min
+button1Name: Lets have a meet 
+button1Target: https://calendly.com/nodeshark/30min
 image: images/about/ilustracion_1.png

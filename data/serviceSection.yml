@@ -10,7 +10,12 @@ service:
   - content: >
       #### UI/UX Design starting from idea
 
+
       Let our UX / UI team co-create with you the best layout and the best user flows for your web or mobile app.
+
+
+
+
     image: images/service/ui-ux.svg
   #- content: >
       #### Creative Design 
@@ -19,8 +24,8 @@ service:
     #  Logos, assets, renders, etc. We are happy to help you
     #image: images/service/creative.svg
   - content: >
-      #### Web Development 
-
+      #### Web Development
+       
       We create, maintain and optimize your website. We work with different technologies to adjust to the needs of our clients, 
       offering the best solution at the best price.
     image: images/service/web.svg
