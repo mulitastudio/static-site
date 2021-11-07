@@ -31,10 +31,10 @@ weight = 6
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © MulitaStudio 2021"
-footerLogo = "images/contact/logo-letra-blanca.svg"
+footerLogo = "images/contact/logo-blanco.png"
 formspreeURL = "https://formspree.io/f/xbjqevjv"
 googleAnalytics = "G-LQ342K3YFD"
-logo = "images/site-navigation/logo-letra-violeta.png"
+logo = "images/site-navigation/logo-violeta.png"
 
 [params.address]
 address = "Marco Bruto 1439 Montevideo, Uruguay."
