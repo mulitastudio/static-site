@@ -1,10 +1,10 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: 
 title: >
   ## Our Services
 
-  We offer an end to end solution where you can start whenever you want
+  We can help you throughout the entire development process
 
 service:
   - content: >
